@@ -1,0 +1,105 @@
+{
+    "companies": [
+        {
+            "name": "Apple Inc,",
+            "headquarters": "One Apple Park Way, Cupertino, CA 95014",
+            "CEO": "Tim Cook",
+            "revenue": 365820000000.00,
+            "num_of_employees": 154000,
+            "products": [
+                {
+                    "name": "IPhone 13",
+                    "release_date": "09/14/2021",
+                    "price": 899.00
+                },
+                {
+                    "name": "Apple HomePod mini",
+                    "release_date": "11/16/2020",
+                    "price": 100.00
+                },
+                {
+                    "name": "Apple Airpods 3",
+                    "release_date": "10/26/2021",
+                    "price": 169.00
+                },
+                {
+                    "name": "Apple Watch Series 4",
+                    "release_date": "09/21/2018",
+                    "price": 399.00
+                }
+            ]
+        },
+        {
+            "name": "Samsung Electronics",
+            "headquarters": "Samsung Digital City, Samsungno 129, Maetan-dong, Yeongtong District, Suwon, South Korea",
+            "CEO": " Kim Ki Nam",
+            "revenue": 60424602940.00,
+            "num_of_employees": 287000,
+            "products": [
+                {
+                    "name": "Galaxy Book2",
+                    "release_date": "04/01/0222",
+                    "price": 1349.00
+                },
+                {
+                    "name": "Galaxy S22 Ultra",
+                    "release_date": "02/01/2022",
+                    "price": 1049.00
+                },
+                {
+                    "name": "Galaxy Watch4",
+                    "release_date": "08/27/2022",
+                    "price": 249.00
+                }
+            ]
+        },
+        {
+            "name": "Hewlett-Packard",
+            "headquarters": "Palo Alto, CA",
+            "CEO": "Enrique Lores",
+            "revenue": 63490000000.00,
+            "num_of_employees": 51000,
+            "products": [
+                {
+                    "name": "HP ENVY Laptop - 13t-ba100",
+                    "release_date": "05/18/2021",
+                    "price": 799.00
+                },
+                {
+                    "name": "HP ENVY Desktop TE01-2250xt PC",
+                    "release_date": "09/01/2020",
+                    "price": 449.00
+                },
+                {
+                    "name": "HP Z4 G4 Workstation",
+                    "release_date": "12/30/2021",
+                    "price": 1754.00
+                }
+            ]
+        },
+        {
+            "name": "Microsoft Corporation",
+            "headquarters": "Redmond, WA",
+            "CEO": "Satya Nadella",
+            "revenue": 168000000000,
+            "num_of_employees": 182000,
+            "products": [
+                {
+                    "name": "Windows Server 2019 Standard",
+                    "release_date": "11/24/2021",
+                    "price": 570.00
+                },
+                {
+                    "name": "Microsoft - Surface Pro 7",
+                    "release_date": "02/10/2021",
+                    "price": 599.00
+                },
+                {
+                    "name": "Microsoft 365 Personal",
+                    "release_date": "19/02/2018",
+                    "price": 69.00
+                }
+            ]
+        }
+    ]
+}
